@@ -15,7 +15,10 @@
   "homepage": "https://interest-ui.netlify.app/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
-    "@stylin.js/react": "^1.0.1",
+    "@mysten/deepbook": "^0.7.2",
+    "@mysten/sui.js": "^0.51.0",
+    "@react-theming/storybook-addon": "^1.1.10",
+    "@stylin.js/elements": "^1.0.2",
     "@types/react-modal": "^3.16.0",
     "framer-motion": "^10.11.2",
     "ramda": "^0.29.0",
@@ -24,6 +27,7 @@
     "react-modal": "^3.16.1",
     "react-range": "^1.8.14",
     "recharts": "^2.10.4",
+    "swr": "^2.2.5",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
